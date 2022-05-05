@@ -1,0 +1,11 @@
+class Array{
+
+  public static void main(String args[])
+  
+ {
+    int[] age = {12,5,20,21,4,10};
+
+    System.out.println();in
+ }
+
+}
